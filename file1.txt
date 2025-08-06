@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello worldd
  
+=======
+hello
+heloooooooo
+>>>>>>> 70df9e1 (ini2)
